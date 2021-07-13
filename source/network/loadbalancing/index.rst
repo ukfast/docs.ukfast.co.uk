@@ -1,5 +1,5 @@
 =============
-Loadbalancing
+Classic Load Balancers
 =============
 
 .. toctree::

@@ -10,6 +10,7 @@ Information and guidance relating to the networking infrastructure at UKFast
   cdn/index
   colo/index
   firewalls/index
-  loadbalancing/index
+  Classic Load Balancers <loadbalancing/index>
+  Load Balancers <load-balancers/index>
   policy/index
   /operatingsystems/linux/vpn/install_softether_vpn_server
